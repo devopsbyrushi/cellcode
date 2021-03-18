@@ -1,0 +1,3 @@
+# Module flip
+# RPC service class, partial path of RPC policy file
+flipkart.client.GreetingService, 04739271D800083151A5BA3664C75DE3.gwt.rpc

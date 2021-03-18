@@ -1,0 +1,5 @@
+# Module flipkart.flipJUnit.JUnit
+# RPC service class, partial path of RPC policy file
+flipkart.client.GreetingService, 04739271D800083151A5BA3664C75DE3.gwt.rpc
+com.google.gwt.logging.shared.RemoteLoggingService, 8C60C75F6B7DEA6E5ED4AE57614680B1.gwt.rpc
+com.google.gwt.junit.client.impl.JUnitHost, 96393FD5B90EFD77EACE5B4F721C3D47.gwt.rpc

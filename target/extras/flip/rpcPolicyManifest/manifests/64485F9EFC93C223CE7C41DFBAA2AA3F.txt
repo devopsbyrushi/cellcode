@@ -1,0 +1,2 @@
+serviceClass: flipkart.client.GreetingService
+path: 04739271D800083151A5BA3664C75DE3.gwt.rpc
